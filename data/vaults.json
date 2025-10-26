@@ -1,18 +1,17 @@
-[
-  {
-    "vault": "USDC Vault (Arbitrum)",
-    "date": "2025-10-27",
-    "deposit": 100,
-    "totalValue": 105.30,
-    "pnl": 5.30,
-    "apy": "19.2%"
-  },
-  {
-    "vault": "ETH Vault (Optimism)",
-    "date": "2025-10-27",
-    "deposit": 100,
-    "totalValue": 103.10,
-    "pnl": 3.10,
-    "apy": "11.3%"
-  }
-]
+{
+  "projectName": "https://www.avantisfi.com/referral?code=xquter",
+  "risk": "Low",
+  "chain": "Base",
+  "asset": "USDC",
+  "deposit": 300,
+  "earned": 5,
+  "realApr": 23,
+  "roi": 1.67,
+  "currentBalance": 305,
+  "withdrawn": 0,
+  "dateOpened": "2025-09-29",
+  "daysActive": 27,
+  "status": "Active",
+  "link": "https://www.avantisfi.com/",
+  "comment": ""
+}
