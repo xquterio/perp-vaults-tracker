@@ -1,0 +1,18 @@
+[
+  {
+    "vault": "USDC Vault (Arbitrum)",
+    "date": "2025-10-27",
+    "deposit": 100,
+    "totalValue": 105.30,
+    "pnl": 5.30,
+    "apy": "19.2%"
+  },
+  {
+    "vault": "ETH Vault (Optimism)",
+    "date": "2025-10-27",
+    "deposit": 100,
+    "totalValue": 103.10,
+    "pnl": 3.10,
+    "apy": "11.3%"
+  }
+]
